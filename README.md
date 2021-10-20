@@ -31,3 +31,5 @@ flex-direction: column; // main-axis - vertical, cross-axis - horizontal
 justify-content - define main axis
 align-content - define cross axis
 ```
+
+- **`align-content`:** [ref](https://css-tricks.com/almanac/properties/a/align-content/)
